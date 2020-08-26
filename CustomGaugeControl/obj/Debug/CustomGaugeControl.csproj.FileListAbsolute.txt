@@ -1,0 +1,36 @@
+C:\DevEnv\C#\WPF\2020.04.06 UserControl\CustomGaugeControl\CustomGaugeControl\obj\Debug\CustomGaugeControl.csprojAssemblyReference.cache
+C:\DevEnv\C#\WPF\2020.04.06 UserControl\CustomGaugeControl\CustomGaugeControl\obj\Debug\GaugeControl.g.cs
+C:\DevEnv\C#\WPF\2020.04.06 UserControl\CustomGaugeControl\CustomGaugeControl\obj\Debug\MainWindow.g.cs
+C:\DevEnv\C#\WPF\2020.04.06 UserControl\CustomGaugeControl\CustomGaugeControl\obj\Debug\App.g.cs
+C:\DevEnv\C#\WPF\2020.04.06 UserControl\CustomGaugeControl\CustomGaugeControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\DevEnv\C#\WPF\2020.04.06 UserControl\CustomGaugeControl\CustomGaugeControl\obj\Debug\CustomGaugeControl_MarkupCompile.cache
+C:\DevEnv\C#\WPF\2020.04.06 UserControl\CustomGaugeControl\CustomGaugeControl\obj\Debug\CustomGaugeControl_MarkupCompile.lref
+C:\DevEnv\C#\WPF\2020.04.06 UserControl\CustomGaugeControl\CustomGaugeControl\bin\Debug\CustomGaugeControl.exe.config
+C:\DevEnv\C#\WPF\2020.04.06 UserControl\CustomGaugeControl\CustomGaugeControl\bin\Debug\CustomGaugeControl.exe
+C:\DevEnv\C#\WPF\2020.04.06 UserControl\CustomGaugeControl\CustomGaugeControl\bin\Debug\CustomGaugeControl.pdb
+C:\DevEnv\C#\WPF\2020.04.06 UserControl\CustomGaugeControl\CustomGaugeControl\obj\Debug\GaugeControl.baml
+C:\DevEnv\C#\WPF\2020.04.06 UserControl\CustomGaugeControl\CustomGaugeControl\obj\Debug\MainWindow.baml
+C:\DevEnv\C#\WPF\2020.04.06 UserControl\CustomGaugeControl\CustomGaugeControl\obj\Debug\CustomGaugeControl.g.resources
+C:\DevEnv\C#\WPF\2020.04.06 UserControl\CustomGaugeControl\CustomGaugeControl\obj\Debug\CustomGaugeControl.Properties.Resources.resources
+C:\DevEnv\C#\WPF\2020.04.06 UserControl\CustomGaugeControl\CustomGaugeControl\obj\Debug\CustomGaugeControl.csproj.GenerateResource.cache
+C:\DevEnv\C#\WPF\2020.04.06 UserControl\CustomGaugeControl\CustomGaugeControl\obj\Debug\CustomGaugeControl.csproj.CoreCompileInputs.cache
+C:\DevEnv\C#\WPF\2020.04.06 UserControl\CustomGaugeControl\CustomGaugeControl\obj\Debug\CustomGaugeControl.exe
+C:\DevEnv\C#\WPF\2020.04.06 UserControl\CustomGaugeControl\CustomGaugeControl\obj\Debug\CustomGaugeControl.pdb
+C:\Users\Administrator\Downloads\CustomGaugeControl_1586299347\CustomGaugeControl\CustomGaugeControl\bin\Debug\CustomGaugeControl.exe.config
+C:\Users\Administrator\Downloads\CustomGaugeControl_1586299347\CustomGaugeControl\CustomGaugeControl\bin\Debug\CustomGaugeControl.exe
+C:\Users\Administrator\Downloads\CustomGaugeControl_1586299347\CustomGaugeControl\CustomGaugeControl\bin\Debug\CustomGaugeControl.pdb
+C:\Users\Administrator\Downloads\CustomGaugeControl_1586299347\CustomGaugeControl\CustomGaugeControl\obj\Debug\CustomGaugeControl.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\CustomGaugeControl_1586299347\CustomGaugeControl\CustomGaugeControl\obj\Debug\GaugeControl.g.cs
+C:\Users\Administrator\Downloads\CustomGaugeControl_1586299347\CustomGaugeControl\CustomGaugeControl\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Downloads\CustomGaugeControl_1586299347\CustomGaugeControl\CustomGaugeControl\obj\Debug\App.g.cs
+C:\Users\Administrator\Downloads\CustomGaugeControl_1586299347\CustomGaugeControl\CustomGaugeControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Downloads\CustomGaugeControl_1586299347\CustomGaugeControl\CustomGaugeControl\obj\Debug\CustomGaugeControl_MarkupCompile.cache
+C:\Users\Administrator\Downloads\CustomGaugeControl_1586299347\CustomGaugeControl\CustomGaugeControl\obj\Debug\CustomGaugeControl_MarkupCompile.lref
+C:\Users\Administrator\Downloads\CustomGaugeControl_1586299347\CustomGaugeControl\CustomGaugeControl\obj\Debug\GaugeControl.baml
+C:\Users\Administrator\Downloads\CustomGaugeControl_1586299347\CustomGaugeControl\CustomGaugeControl\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Downloads\CustomGaugeControl_1586299347\CustomGaugeControl\CustomGaugeControl\obj\Debug\CustomGaugeControl.g.resources
+C:\Users\Administrator\Downloads\CustomGaugeControl_1586299347\CustomGaugeControl\CustomGaugeControl\obj\Debug\CustomGaugeControl.Properties.Resources.resources
+C:\Users\Administrator\Downloads\CustomGaugeControl_1586299347\CustomGaugeControl\CustomGaugeControl\obj\Debug\CustomGaugeControl.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\CustomGaugeControl_1586299347\CustomGaugeControl\CustomGaugeControl\obj\Debug\CustomGaugeControl.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\CustomGaugeControl_1586299347\CustomGaugeControl\CustomGaugeControl\obj\Debug\CustomGaugeControl.exe
+C:\Users\Administrator\Downloads\CustomGaugeControl_1586299347\CustomGaugeControl\CustomGaugeControl\obj\Debug\CustomGaugeControl.pdb
